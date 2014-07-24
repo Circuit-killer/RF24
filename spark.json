@@ -2,6 +2,6 @@
   "name": "RF24",
   "author": "TMRh20 <tmrh20@gmail.com>",
   "license": "MIT",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "An Arduino Library for nRF2401 Modules"
 }
